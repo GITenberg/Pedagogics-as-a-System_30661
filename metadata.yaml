@@ -1,0 +1,36 @@
+_repo: Pedagogics-as-a-System_30661
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brackett, Anna C. (Anna Callender)
+    alias: Brackett, Anna Callender
+    birthdate: 1836
+    deathdate: 1911
+    gutenberg_agent_id: '34742'
+    url: http://www.gutenberg.org/2009/agents/34742
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rosenkranz, Karl
+    birthdate: 1805
+    deathdate: 1879
+    gutenberg_agent_id: '34741'
+    url: http://www.gutenberg.org/2009/agents/34741
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Karl_Friedrich_Rosenkranz
+description: ''
+gutenberg_issued: '2009-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30661'
+  lccn: '06031567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Education'
+title: Pedagogics as a System
+url: http://www.gutenberg.org/ebooks/30661
