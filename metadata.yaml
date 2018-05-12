@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34741
     wikipedia: http://en.wikipedia.org/wiki/Johann_Karl_Friedrich_Rosenkranz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30661#Pedagogics-as-a-System
 gutenberg_issued: '2009-12-13'
 gutenberg_type: Text
 identifiers:
